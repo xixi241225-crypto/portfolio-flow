@@ -180,11 +180,13 @@ edgeone pages deploy . -n my-portfolio
 
 ## 📊 灵感与致谢
 
-PortfolioFlow 的设计思路受这些产品启发:
+PortfolioFlow 的设计思路受这些产品启发：
 
-- **Tencent EdgeOne Pages**——边缘计算 + KV + Functions 全栈能力
-- **Anthropic Claude Skills 协议**——SKILL.md 主控 + references 按需加载的分层架构
-- **Cargo / Squarespace**——独立设计师作品集的视觉范式
+- **腾讯 EdgeOne Pages**——边缘计算 + KV + Functions 全栈能力，
+  让设计师作品集真正可以"零后端"全栈部署
+- **WorkBuddy Skill 协议**——SKILL.md 主控 + references 按需加载的
+  分层架构，让 AI 能力封装成可复用的标准化工具
+- **Cargo / Squarespace**——独立设计师作品集的视觉范式参考
 
 ---
 
